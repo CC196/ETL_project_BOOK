@@ -1,0 +1,26 @@
+Data Cleanup & Analysis
+
+Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
+
+•	The sources of data that you will extract from.
+1.	Goodreads API
+2.	The Guardian – Top 100 Books of All Time
+
+
+•	The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+1.	Cleaning – Dropping columns, dropping duplicates, renaming columns.
+2.	Joining – Joining two tables to match goodreads average rating to top 100 books table.
+3.	Filtering – Filter by goodreads average rating
+4.	Aggregating – none
+
+
+•	The type of final production database to load the data into (relational or non-relational).
+1.	Relational: PostgreSQL – pgAdmin
+
+
+•	The final tables or collections that will be used in the production database.
+1.	Goodreads API Average Rating Table
+2.	Top 100 Books of All Time
+
+
+You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
