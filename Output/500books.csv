@@ -1,0 +1,471 @@
+id,title,author,isbn,num_pages,average_rating,ratings_count,text_reviews_count,book_format
+1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,,652,4.57,2218107,29552,Paperback
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,0439358078,870,4.50,2284052,31545,Paperback
+3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,,309,4.47,6562116,79693,Hardcover
+4,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,0439554896,352,4.43,6388,244,Hardcover
+5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,043965548X,435,4.57,2510765,39248,Mass Market Paperback
+6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,,734,4.56,2343335,33821,Paperback
+7,"The Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,0439887453,,4.73,1657,112,Paperback
+8,"Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)",J.K. Rowling,0439682584,2690,4.78,50359,175,Paperback
+9,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,0976540606,152,3.83,21,1,Paperback
+10,"Harry Potter Collection (Harry Potter, #1-6)",J.K. Rowling,0439827604,3342,4.73,28946,839,Hardcover
+11,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,,216,4.22,952841,16368,Mass Market Paperback
+12,"The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,0517226952,815,4.36,3656,257,Leather Bound
+13,"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,0345453743,815,4.36,262544,4227,Paperback
+14,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,1400052920,215,4.22,6405,530,Hardcover
+15,The Hitchhiker's Guide to Lean: Lessons from the Road,Jamie Flinchbaugh,0872638316,,3.71,56,4,
+16,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,0739322206,6,4.22,1304,263,Audio CD
+17,"The Hitchhiker's Guide to the Galaxy: Quandary Phase (Hitchhiker's Guide: Radio Play, #4)",Douglas Adams,1572704888,,4.34,637,25,Audio CD
+18,"The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,0517149257,815,4.36,2932,198,Hardcover
+19,"The Hitchhiker's Guide to the Galaxy: Quintessential Phase (Hitchhiker's Guide: Radio Play, #5)",Douglas Adams,0792738586,,4.37,11,0,Audio CD
+21,A Short History of Nearly Everything,Bill Bryson,076790818X,544,4.20,267601,9968,Paperback
+22,Bill Bryson's African Diary,Bill Bryson,0767915062,55,3.45,7463,512,Hardcover
+23,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,0767910435,256,3.88,2149,135,Paperback
+24,In a Sunburned Country,Bill Bryson,0767903862,335,4.07,76107,4433,Paperback
+25,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,076790382X,304,3.89,50633,2282,Paperback
+26,The Lost Continent: Travels in Small Town America,Bill Bryson,0060920084,299,3.82,47480,2378,Paperback
+27,Neither Here nor There: Travels in Europe,Bill Bryson,0380713802,254,3.86,52158,2370,Paperback
+28,Notes from a Small Island,Bill Bryson,0380727501,324,3.91,84200,3436,Paperback
+29,The Mother Tongue: English and How It Got That Way,Bill Bryson,0380715430,270,3.92,29792,2205,Paperback
+30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,0345538374,1728,4.60,104432,1605,Mass Market Paperback
+31,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,0618517650,1184,4.50,1732,91,Hardcover
+32,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,0618346244,1137,4.50,2820,130,Paperback
+33,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,,1216,4.50,491515,8487,Paperback
+34,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,0618346252,398,4.36,2220742,14725,Paperback
+35,"The Lord of the Rings (The Lord of the Rings, #1-3)",J.R.R. Tolkien,0618260587,1216,4.50,1632,141,
+36,The Lord of the Rings: Weapons and Warfare,Chris   Smith,0618391002,218,4.55,25768,49,Paperback
+37,The Lord of the Rings: Complete Visual Companion,Jude Fisher,0618510826,224,4.51,363,6,Paperback
+38,The Lord of the Rings Box Set,J.R.R. Tolkien,0618153977,1223,4.50,223,19,
+39,The Lord of the Rings,Brian Sibley,0553456539,,4.72,281,17,
+40,"Cooking with Fernet Branca (Gerald Samper, #1)",James Hamilton-Paterson,193337201X,288,3.61,1289,213,Paperback
+45,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas,097669400X,558,3.84,1447,61,Paperback
+46,Ruby Quickly: Ruby and Rails for the Real World,Mark   Watson,1932394745,360,3.40,5,0,Paperback
+48,The Bucaneers,Edith Wharton,0517152789,,3.90,126,12,Hardcover
+49,Bucaneer,Luther Butler,0738837806,,3.83,6,1,
+50,"Hatchet (Brian's Saga, #1)",Gary Paulsen,0689840926,208,3.73,286422,12458,Hardcover
+51,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",Donna Ickes,1557344493,48,3.95,37,2,Paperback
+52,El hacha,Gary Paulsen,8427932065,,3.73,22,3,Paperback
+53,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,0385326505,144,3.88,2118,339,Hardcover
+54,Molly Hatchet - 5 of the Best,Molly Hatchet,1575606240,56,4.33,6,0,Paperback
+55,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,1595580271,228,3.47,99,16,Paperback
+56,The Woodsman and His Hatchet: Eighty Years on Back Country Survival,Bud Cheff Sr.,0912299622,150,3.60,10,0,Paperback
+57,A Changeling for All Seasons (Changeling Seasons #1),Angela Knight,1595962808,304,3.75,166,4,Paperback
+58,"Changeling (Changeling, #1)",Delia Sherman,0670059676,256,3.61,989,112,Hardcover
+59,The Changeling Sea,Patricia A. McKillip,0141312629,137,4.06,4543,318,Paperback
+60,"Changelings (The Twins of Petaybee, #1)",Anne McCaffrey,0593056124,,3.78,15,3,
+61,The Changeling,Zilpha Keatley Snyder,0595321801,228,4.18,1187,100,Paperback
+63,The Changeling,Kate Horsley,1590301943,339,3.56,303,43,Paperback
+65,"Shadows in the Starlight (Changeling Detective, #2)",Elaine Cunningham,0765348527,288,3.68,34,6,Mass Market Paperback
+66,"The Changeling (Daughters of England, #15)",Philippa Carr,0449146979,369,3.98,358,13,Mass Market Paperback
+67,The Known World,Edward P. Jones,0061159174,388,3.83,30554,2710,Paperback
+68,The Known World,Edward P. Jones,006076273X,14,3.83,58,12,Audio CD
+69,The Known World,Edward P. Jones,0060749911,576,3.83,22,3,Paperback
+70,I Wish I Had Known That!: World's Greatest Money & Time Saving Baby Secrets Revealed!,Nicole Rae Painter,0975936808,,4.25,4,0,
+71,"Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives",Satyajit Das,0273704745,334,3.83,1492,85,Paperback
+72,Artesia: Adventures in the Known World,Mark Smylie,1932386106,352,4.15,54,4,Hardcover
+73,The Known World,Edward P. Jones,096513671X,388,3.83,15,2,Paperback
+74,"The John McPhee Reader (John McPhee Reader, #1)",John McPhee,0374517193,416,4.42,580,39,Paperback
+75,Uncommon Carriers,John McPhee,0374280398,248,3.95,1662,203,Hardcover
+76,Heirs of General Practice,John McPhee,0374519749,128,4.16,281,23,Paperback
+77,The Control of Nature,John McPhee,0374522596,288,4.25,3590,308,Paperback
+78,Annals of the Former World,John McPhee,0374518734,720,4.34,3195,232,Paperback
+79,Coming Into the Country,John McPhee,0374522871,448,4.22,5824,267,Paperback
+80,La Place de la Concorde Suisse,John McPhee,0374519323,160,3.93,708,53,Paperback
+81,Giving Good Weight,John McPhee,0374516006,288,4.23,549,36,Paperback
+82,"The Second John McPhee Reader (John McPhee Reader, #2)",John McPhee,0374256861,393,4.38,6,1,Hardcover
+83,Rising from the Plains,John McPhee,0374520658,208,4.23,1389,107,Paperback
+84,Heidi,Loretta Krupinski,0060234385,,4.50,18,3,Hardcover
+85,The Heidi Chronicles,Wendy Wasserstein,0822205106,81,3.74,1483,75,Paperback
+86,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,0679734996,249,3.84,2769,64,Paperback
+87,Pandering,Heidi Fleiss,0972016406,,3.62,88,11,
+88,Love Your Handwriting (Creating Keepsakes),Heidi Swapp,1929180896,,3.60,89,8,Spiral Bound
+89,"Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening",Heidi Hayes Jacobs,1596670231,138,3.91,33,1,Paperback
+90,Simply Beautiful Beaded Jewelry,Heidi Boyd,1581807740,128,3.77,63,4,Paperback
+91,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker,0800793617,192,4.46,871,55,Paperback
+92,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,0871202867,108,3.65,78,2,Paperback
+93,"Heidi (Heidi, #1-2)",Johanna Spyri,0753454947,352,3.99,156168,2421,Paperback
+94,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,0871209993,192,3.24,58,5,Paperback
+95,"Cinnamon and Roses (Rose Trilogy, #1)",Heidi Betts,0843946687,298,3.87,61,5,Paperback
+96,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker,1852402873,192,4.46,34,6,Paperback
+97,The Birthdays,Heidi Pitlor,0393061272,,2.86,70,13,
+98,What to Expect the First Year (What to Expect),Heidi Murkoff,0761129588,832,3.89,12041,678,Paperback
+99,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss,0972016414,123,3.74,35,8,
+100,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,1581805632,128,3.78,79,4,Paperback
+101,Chasing Jordan,Heidi W. Boehringer,1852428937,240,3.46,37,7,Paperback
+102,Seven-Year Seduction,Heidi Betts,0373767099,184,3.62,79,6,Mass Market Paperback
+103,"God Emperor of Dune (Dune Chronicles, #4)",Frank Herbert,0441294677,423,3.85,2850,170,Mass Market Paperback
+104,"Dune (Dune Chronicles, #1)",Frank Herbert,,528,4.23,4281,485,Paperback
+105,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,0441102670,436,3.91,39012,600,Mass Market Paperback
+106,Dune Messiah (Dune Chronicles #2),Frank Herbert,0441172695,331,3.89,99115,2507,Mass Market Paperback
+107,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,0765306476,592,4.01,801,23,Paperback
+108,The Secrets of Frank Herbert's Dune,James Van Hise,074340730X,160,3.51,45,0,Paperback
+109,"Heretics of Dune (Dune Chronicles, #5)",Frank Herbert,0399128980,480,3.87,293,24,Hardcover
+110,The Road to Dune,Frank Herbert,0765353709,426,3.88,4889,83,Paperback
+111,"Dios emperador de Dune (Dune Chronicles, #4)",Frank Herbert,8497597486,,3.85,136,16,
+112,Children of Dune (Dune Chronicles #3),Frank Herbert,,408,3.94,85488,1481,Mass Market Paperback
+113,"Dune (Dune Chronicles, #1)",Frank Herbert,1402523807,,4.23,44,5,Audio CD
+114,"Dune Trilogy Box Set (Dune Chronicles, #1-3)",Frank Herbert,0425039323,,4.36,26,0,Mass Market Paperback
+115,Worlds Beyond Dune Box,Frank Herbert,042504517X,,4.00,6,0,Mass Market Paperback
+116,The Dune Encyclopedia,Willis Everett McNelly,0399129502,,4.10,36,2,
+117,Heretics of Dune (Dune Chronicles #5),Frank Herbert,0441328008,471,3.87,45654,688,Mass Market Paperback
+118,The Battles of Dune,Felix  Salten,1559948981,,4.18,450,0,Audiobook
+119,The Lord of the Rings: The Art of the Fellowship of the Ring,Gary Russell,0618212906,192,4.61,35968,125,Hardcover
+120,The Trust: The Private and Powerful Family behind the New York Times,Susan E. Tifft,0756787122,,3.99,4,0,
+121,The Patriarch: The Rise and Fall of the Bingham Dynasty,Susan E. Tifft,0671797077,576,3.67,8,1,Paperback
+122,"The Power of One (The Power of One, #1)",Bryce Courtenay,034541005X,544,4.34,72633,4672,Paperback
+123,"The Power of One (The Power of One, #1)",Bryce Courtenay,0385732546,291,4.34,48,13,Hardcover
+124,Lose Weight with The Power of One: A Motivational Journey to Nutritional Sanity,Stephen   Moss,0973322802,,4.33,9,1,
+125,The Power of One: Daisy Bates and the Little Rock Nine,Dennis Brindell Fradin,061831556X,192,4.42,38,7,Hardcover
+126,"The Power of One (The Power of One, #1)",Bryce Courtenay,1876584858,,4.34,19,7,Audio Cassette
+127,"Powers Unlimited One: A Sourcebook for Heroes Unlimited (Heroes Unlimited, #1)",Carmen Bellaire,1574570870,,4.39,18,0,
+128,The Power of One Christlike Life,Francis Frangipane,0883686287,159,4.22,36,3,Paperback
+129,"The Power of One: One Person, One Rule, One Month",John C. Maxwell,0785260056,256,4.26,17,1,Paperback
+130,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,0471780936,205,3.33,178,16,Hardcover
+131,"The Power of One: The Solo Play for Playwrights, Actors, and Directors",Louis E. Catron,0325001537,240,3.67,10,0,Paperback
+132,"How to Buy, Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days",Adam Ginsberg,006076287X,336,3.51,76,9,Paperback
+133,eBay for Dummies,Marsha Collier,0470045299,386,3.51,112,9,Paperback
+134,eBay PowerSeller Secrets: Insider Tips from eBay's Most Successful Sellers,Debra Schepp,0072258691,385,3.59,40,2,Paperback
+135,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta,0072262788,260,3.62,24,0,Paperback
+136,Titanium eBay: A Tactical Guide to Becoming a Millionaire PowerSeller,Skip McGrath,1592574335,,3.81,20,2,
+137,Starting an eBay Business for Dummies,Marsha Collier,0764569244,384,3.55,55,4,Paperback
+138,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,0471933821,260,4.27,9,0,Paperback
+139,ebay Timesaving Techniques for Dummies,Marsha Collier,0764559915,391,3.39,22,1,Paperback
+140,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,0764584383,864,3.89,17,3,Paperback
+141,Ruby Cookbook,Lucas Carlson,0596523696,873,3.84,167,4,Paperback
+142,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,0806523492,240,4.17,52,5,Paperback
+143,Ruby Ann's Down Home Trailer Park Holiday Cookbook,Ruby Ann Boxcar,0806523506,,4.10,20,1,Paperback
+144,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,0806525363,206,4.08,13,2,Paperback
+145,Ruby Cookbook,Colin Steele,0596003242,,4.60,5,0,Paperback
+146,Ruby's Low-Fat Soul Food Cookbook,Ruby Banks-Payne,0809231530,175,4.80,5,0,Paperback
+147,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,0596527314,514,3.46,65,1,Paperback
+148,"Ruby Slippers Cookbook: Life, Culture, Family & Food after Katrina",Amy Cyrex Sins,097851470X,,4.36,11,1,
+149,The Red Hot Cookbook: Create a Culinary Inferno with Flaming Good Recipes from Around the World,Ruby Le Bois,184215298X,256,3.75,4,0,Paperback
+151,Anna Karenina,Leo Tolstoy,0143035002,838,4.05,17074,1939,Paperback
+152,Anna Karenina,Leo Tolstoy,0451528611,960,4.05,109469,5733,Mass Market Paperback
+153,Anna Karenina,Leo Tolstoy,0140449175,837,4.05,3023,326,Paperback
+154,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman,0822001837,80,3.82,17,3,Paperback
+155,Anna Karenina,Leo Tolstoy,1593080271,803,4.05,9775,754,Paperback
+156,Anna Karenina,Leo Tolstoy,0486437965,752,4.05,492,73,Paperback
+157,Anna Karenina,Leo Tolstoy,1593081774,803,4.05,306,50,Hardcover
+158,Anna Karenina,Leo Tolstoy,1419305948,,4.05,256,66,Audio CD
+159,Dinner with Anna Karenina,Gloria Goldreich,0778322270,360,2.98,414,65,Hardcover
+160,Tolstoy: Anna Karenina,Anthony Thorlby,0521313252,128,4.20,1242,34,Paperback
+161,The Dream Life of Sukhanov,Olga Grushin,0399152989,,3.88,66,16,
+162,Untouchable,Mulk Raj Anand,0140183957,160,3.72,3712,318,Paperback
+163,The Untouchable,John Banville,0679767479,368,3.95,2239,228,Paperback
+164,The Untouchables,Eliot Ness,1568491980,256,3.89,619,31,Hardcover
+165,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,0743270797,320,3.82,319,42,Hardcover
+166,Dalit: The Black Untaouchables of India,V.T. Rajshekar,0932863051,100,4.20,10,0,Paperback
+167,"The Untouchables: Subordination, Poverty and the State in Modern India (Contemporary South Asia, #4)",Oliver Mendelsohn,0521553628,308,4.00,5,0,Hardcover
+168,Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon,0742508803,224,3.71,16,4,Hardcover
+170,The Book of Evidence,Peter Achinstein,0195171713,304,3.83,12,2,Paperback
+171,The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,0205358624,216,3.40,10,0,Paperback
+172,Surgery: Basic Science and Clinical Evidence,Jeffrey A. Norton,038798447X,,3.83,4,0,
+174,"The Book of Evidence (The Freddie Montgomery Trilogy, #1)",John Banville,5553887828,,3.71,15,2,Audio Cassette
+175,A Challenge to the Critics: Scholarly Evidences of the Book of Mormon,Diane E. Wirth,0882903128,,4.00,11,2,
+176,Little Known Evidences of the Book of Mormon,Brenton G. Yorgason,1555031285,,3.79,51,4,
+177,"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",John Carratello,1557344035,48,4.15,20,0,Paperback
+178,A Wrinkle in Time by Madeleine L'Engle: Study Guide,Teri Shagoury,1586091840,,4.12,48,8,
+179,A Wrinkle in Time: LitPlan Teacher Pack,Mary B. Collins,1583370781,,3.73,4,0,
+180,Wrinkles in Time,George Smoot,0380720442,360,4.02,1049,24,Paperback
+181,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,0821925326,250,4.00,36,6,Hardcover
+182,Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,043927169X,32,3.60,15,0,Paperback
+183,Un raccourci dans le temps,Madeleine L'Engle,2266081594,254,4.00,31,8,Paperback
+184,Empress in the Wrinkle of Time: The Knight-King Chronicle,Valerie Metcalf Estoye,0738817538,508,4.25,4,0,Paperback
+185,Access to Literature: A Wrinkle in Time,LinguiSystems,1559993847,,3.90,10,0,Hardcover
+186,Wrinkles in Time: Imprint of Creation,George Smoot,0349106029,,4.02,37,3,
+188,"Madeleine L'Engle: Author of ""A Wrinkle in Time"" (People in Focus)",Doreen Gonzales,0875184855,,4.30,64,6,
+189,A Wrinkle in Time: A Reading Guide,Manuela Soares,0613956192,,3.62,7,0,Hardcover
+190,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,0788701371,,4.00,278,22,
+191,Literature Connections Sourcebook: A Wrinkle in Time and Related Readings,McDougal Littell,0395783518,,3.91,1511,5,
+192,A Wrinkle in Time: L-I-T Guide,Charlotte S. Jaffe,1566440114,40,3.91,54,3,Paperback
+193,"A Literature Guide to ""A Wrinkle in Time"" by Madeleine L'Engle",Raymond E. Jones,0943069203,,3.50,6,0,
+194,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,0788746472,,4.00,34,9,Audio CD
+195,Decision & Responsibility: A Wrinkle in Time,H. Ganse Little,1891301128,,4.25,8,0,
+196,The Silver Sword,Laura Brierley,0901291668,,4.28,25,1,
+197,A Wrinkle in Time: Teacher Guide,Anne Troy,1561371181,32,4.10,12,0,Paperback
+198,A Wrinkle in Time: Teaching Unit,James      Scott,1580490794,53,4.27,11,0,Paperback
+200,A Wrinkle in Time: Student Packet,"Novel Units, Inc.",1561374989,,4.00,9,0,Paperback
+201,Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,0606105263,205,4.00,6,1,
+202,The Long Shadow of Little Rock: A Memoir,Daisy Bates,0938626752,,4.18,176,20,
+203,The Long Shadow of Temperament,Jerome Kagan,0674015517,,4.00,18,2,
+204,"The Long Shadow (The Morland Dynasty, #6)",Cynthia Harrod-Eagles,0751506435,367,4.13,384,17,Paperback
+205,"A Long Shadow (Inspector Ian Rutledge, #8)",Charles Todd,006078671X,352,4.12,3205,249,Hardcover
+206,Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance,Christopher Waldrep,0742548686,344,3.29,14,4,Hardcover
+207,Long Way Round: Chasing Shadows Across the World,Ewan McGregor,0743499344,320,3.95,361,44,Paperback
+208,"A Shadow in Summer (Long Price Quartet, #1)",Daniel Abraham,0765313405,331,3.61,10023,648,Hardcover
+209,The Long Shadow,Clois G. Long,0533094496,,4.50,4,0,
+210,"Long Shadows: Truth, Lies and History",Erna Paris,1582342105,496,4.20,7,0,Paperback
+212,The Collected Memoirs of Charles Willeford: I Was Looking for a Street/Something About a Soldier,Charles Willeford,1584440538,,4.25,18,0,
+213,New Hope for the Dead (Hoke Mosely #2),Charles Willeford,1400032490,244,3.89,858,84,Paperback
+214,Sideswipe: A Hoke Moseley Novel,Charles Willeford,1400032482,215,4.03,756,75,Paperback
+215,The Way We Die Now,Charles Willeford,1400032504,256,4.05,662,65,Paperback
+216,Miami Blues (Hoke Moseley #1),Charles Willeford,1400032466,191,3.93,3005,194,Paperback
+217,Charles Willeford Omnibus: Pick Up/Burnt Orange Heresy/Cockfighter,Charles Willeford,1874061394,602,4.34,40,2,Unknown Binding
+218,The Woman Chaser,Charles Willeford,1842430017,192,3.93,503,51,Paperback
+219,The Machine in Ward Eleven,Charles Willeford,1568582102,160,3.62,131,15,Paperback
+221,Wild Wives,Charles Willeford,1400032474,102,3.69,359,46,Paperback
+222,The Shark-Infested Custard,Charles Willeford,1400032512,272,3.83,514,59,Paperback
+224,The Black Mass of Brother Springer,Charles Willeford,1930997353,208,3.99,155,11,Paperback
+226,Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford,Kirby Olson,0896724409,184,3.86,7,0,Hardcover
+228,Cockfighter,Charles Willeford,1596542225,200,4.11,1053,68,Paperback
+229,"Sideswipe (Hoke Moseley, #3)",Charles Willeford,0345349474,279,4.03,24,3,Mass Market Paperback
+230,The Burnt Orange Heresy (Vintage Crime/Black Lizard),Charles Willeford,0679732527,144,3.87,104,11,Paperback
+231,I am Charlotte Simmons,Tom Wolfe,0312424442,738,3.42,21220,1705,Paperback
+232,I am Charlotte Simmons,Tom Wolfe,1593977549,,3.42,10,2,
+234,The Complete Verse and Other Nonsense,Edward Lear,0142002275,624,4.18,907,27,Paperback
+236,The Complete Nonsense of Edward Lear,Edward Lear,089190090X,287,4.02,419,39,Hardcover
+237,Poetry for Young People: Edward Lear,Edward Lear,0806930772,48,3.98,71,21,Hardcover
+238,Later Letters of Edward Lear to Chichester Fortescue (Select Bibliographies Reprint Ser.)),Edward Lear,0836966171,,5.00,2,2,
+239,An Edward Lear Alphabet,Edward Lear,0060281138,32,3.39,37,9,Hardcover
+240,Edward Lear's Nonsense Verse,Edward Lear,1851497048,,3.65,3,2,Hardcover
+241,A Was Once an Apple Pie,Edward Lear,0439660564,32,3.43,198,67,Hardcover
+242,The Owl and the Pussycat,Edward Lear,0698113675,32,4.20,76,9,Paperback
+243,The Pobble Who Has No Toes (Edward Lear's Little Books of Nonsense),Edward Lear,0246128828,24,4.57,47,6,Paperback
+244,The Puffin Book of Nonsense Verse,Quentin Blake,0140366601,287,4.03,88,6,Paperback
+245,Henry Miller on Writing,Henry Miller,0811201120,217,4.23,1004,53,Paperback
+246,The Colossus of Maroussi,Henry Miller,0811201090,244,3.99,2718,210,Paperback
+247,Quiet Days in Clichy,Henry Miller,080213016X,154,3.68,3488,153,Paperback
+248,Big Sur and the Oranges of Hieronymus Bosch,Henry Miller,0811201074,400,4.02,2522,141,Paperback
+249,Tropic of Cancer,Henry Miller,0802131786,318,3.68,56102,2495,Paperback
+250,Tropic of Capricorn,Henry Miller,0802151825,348,3.78,15267,473,Paperback
+251,"Nexus (The Rosy Crucifixion, #3)",Henry Miller,0802151787,316,4.10,3335,63,Paperback
+252,"Sexus (The Rosy Crucifixion, #1)",Henry Miller,0802151809,506,3.97,7990,266,Paperback
+253,The Air-Conditioned Nightmare,Henry Miller,0811201066,292,3.83,2750,147,Paperback
+254,The Time of the Assassins:  a Study of Rimbaud,Henry Miller,0811201155,160,3.94,818,53,Paperback
+255,Public Places-Urban Spaces: The Dimensions of Urban Design,Matthew Carmona,0750636327,320,4.10,102,7,Paperback
+256,Behavior in Public Places,Erving Goffman,0029119405,248,4.08,220,7,Paperback
+257,Haunted Places in America: A Guide to Spooked and Spooky Public Places in the United States,Charles A. Coulombe,1592284159,288,3.42,19,1,Paperback
+258,"Public Places: My Life in the Theater, with Peter O'Toole and Beyond",Sian Phillips,0571211194,441,3.85,35,6,Paperback
+259,Together Alone: Personal Relationships in Public Places,Calvin Morrill,0520245237,320,3.67,12,1,Paperback
+260,Squares: A Public Place Design Guide for Urbanists,Mark C. Childs,0826330045,208,3.78,4,0,Paperback
+261,Just in Time! Pastoral Prayers in Public Places,F. Belton Joyner Jr.,0687495679,80,3.80,5,0,Paperback
+262,Pike Place Public Market Seafood Cookbook,Braiden Rex-Johnson,1580086802,129,3.83,22,2,Hardcover
+263,Art for Public Places: Critical Essays,Malcolm Miles,0950678384,244,4.25,4,1,Unknown Binding
+264,The Portrait of a Lady,Henry James,0141439637,797,3.78,64498,2050,Paperback
+265,The Portrait of a Lady,Janet McAlpin,058241783X,,3.91,11,2,
+266,The Portrait of a Lady,Henry James,1423310764,,3.78,25,2,Audio CD
+267,Portrait of the Blue Lady: The Character of Melancholy,Lyn Cowan,1882670965,314,4.30,10,1,Paperback
+268,The Portrait of a Lady,Henry James,0192100386,704,3.78,42,7,Hardcover
+269,The Portrait of a Lady,Henry James,1593080964,635,3.78,406,42,Paperback
+270,The Portrait of a Lady,Henry James,0618107355,640,3.78,133,3,Paperback
+271,New Essays on 'The Portrait of a Lady',Joel Porte,0521345081,178,4.00,3,0,Hardcover
+272,Portrait of a Lady,Henry James,1566196353,,3.78,39,11,
+273,The Portrait of a Lady,Henry James,0140862870,,3.78,4,0,Audio
+274,The Portrait of a Lady,Henry James,0140864512,,3.78,18,3,
+275,The Lover,Marguerite Duras,,117,3.74,24360,1539,Paperback
+276,Hiroshima Mon Amour,Marguerite Duras,082883637X,,3.90,6,0,
+277,Writing,Marguerite Duras,1571290532,91,3.72,809,52,Paperback
+278,The War,Marguerite Duras,1565842219,192,3.85,999,68,Paperback
+279,Craniosacral Therapy II: Beyond the Dura,John E. Upledger,093961605X,259,4.35,46,1,Hardcover
+280,The Ravishing of Lol Stein,Marguerite Duras,0394743040,181,3.66,2116,135,Paperback
+281,"Destroy, She Said",Marguerite Duras,080215154X,133,3.67,593,47,Paperback
+282,L'Amour,Marguerite Duras,207052907X,,3.30,108,6,
+283,L'Amant de la Chine du Nord,Marguerite Duras,2070388093,246,3.88,445,25,Paperback
+284,A Treasury of Kahlil Gibran,Kahlil Gibran,0806504102,456,4.42,220,10,Paperback
+285,Love Letters,Kahlil Gibran,1851681825,178,3.72,204,8,Hardcover
+286,The Prophet,Kahlil Gibran,0679440674,128,4.23,812,49,Hardcover
+288,Kahlil Gibran: His Life and World,Jean Gibran,156656249X,464,4.21,35,2,Paperback
+289,The Beloved: Reflections on the Path of the Heart,Kahlil Gibran,014019553X,102,4.18,338,17,Paperback
+290,Jesus the Son of Man,Kahlil Gibran,0394431243,216,3.98,1342,84,Hardcover
+291,The Broken Wings,Kahlil Gibran,0806501901,132,3.93,6672,555,Paperback
+292,Sand and Foam,Kahlil Gibran,067943920X,100,4.07,3119,231,Hardcover
+293,The Wisdom Of Kahlil Gibran,Kahlil Gibran,8185944717,,4.22,6,2,
+295,Treasure Island,Robert Louis Stevenson,0753453800,311,3.83,333589,7262,Hardcover
+296,Treasure Island,Robert Louis Stevenson,1402714572,213,3.83,433,42,Hardcover
+297,Treasure Island,Robert Louis Stevenson,1416500294,245,3.83,5998,278,Paperback
+298,Treasure Island,Robert Louis Stevenson,0689854684,64,3.83,103,14,Hardcover
+299,Treasure Island,Robert Louis Stevenson,0517221144,272,3.83,57,4,Hardcover
+300,Treasure Island,Robert Louis Stevenson,1596009330,,3.83,22,2,Audio CD
+301,Treasure Island,Robert Louis Stevenson,0786180412,,3.83,41,6,Audio CD
+302,Treasure Island (Great Illustrated Classics),Deidre S. Laiken,1577658051,232,4.05,101,16,Hardcover
+303,Cliffs Notes on Stevenson's Treasure Island and Kidnapped,O.L. Mishk,0822013061,80,4.60,5,0,Paperback
+304,Daniel Deronda,George Eliot,037576013X,796,3.84,20999,681,Paperback
+305,George Eliot and Judaism: An Attempt to Appreciate 'Daniel Deronda',David Kaufmann,1410223221,100,4.33,3,0,Paperback
+306,Daniel Deronda Notebooks,George Eliot,0521460646,524,3.70,18,0,Hardcover
+307,Daniel Deronda: A Conversation,Henry James,1419115014,48,4.67,6,0,Paperback
+309,"Daniel Deronda, V1",George Eliot,1404384618,384,4.27,5,2,Paperback
+310,Jazz: The First 100 Years (with Audio CD),Henry  Martin,0534628044,,4.22,10,0,
+311,Essential Jazz: The First 100 Years (with CD-ROM),Henry  Martin,0534638104,,4.24,4,0,
+312,Flight: 100 Years of Aviation,R.G. Grant,0789489104,440,4.32,36,2,Hardcover
+313,100 Years of Lynchings,Ralph Ginzburg,0933121180,270,4.57,102,6,paper
+314,If You Lived 100 Years Ago,Ann McGovern,0590960016,80,3.91,134,20,Paperback
+315,Camp Cooking: 100 Years The National Museum of Forest Service History,National Museum of Forest Service History,1586857614,192,4.40,43,1,Spiral-bound
+317,El Siglo del Espiritu Santo,Vinson Synan,9875570923,559,3.76,4,0,Hardcover
+318,The Next 100 Years: Predictions to the Nations and the Church of the 21st Century,Dennis Cramer,1886296316,133,4.00,11,2,Paperback
+319,Disney,Dave   Smith,0786853808,224,4.01,14,1,Paperback
+320,One Hundred Years of Solitude,Gabriel García Márquez,,417,4.08,607142,17691,Hardcover
+321,Cliffs Notes on Garcia Marquez' 100 Hundred Years of Solitude,Carl Senna,0822009641,,4.12,50,8,
+322,Cien años de soledad,Gabriel García Márquez,9871138148,,4.08,1048,104,Mass Market Paperback
+323,Masterwork Studies Series: 100 Years of Solitude,Regina Janes,0805779892,176,4.05,201,14,Hardcover
+324,Cien años de soledad,Gabriel García Márquez,0785950109,448,4.08,65,7,Hardcover
+325,Cien años de soledad,Gabriel García Márquez,8423919005,456,4.08,81,9,Paperback
+326,One Hundred Years of Solitude,Gabriel García Márquez,006502396X,,4.08,92,9,Hardcover
+327,Why Zebras Don't Get Ulcers,Robert M. Sapolsky,0805073698,560,4.17,7553,671,Paperback
+328,Chess for Zebras,Jonathan Rowson,1901983854,255,4.41,77,8,Paperback
+329,What If the Zebras Lost Their Stripes?,John Reitano,0809166496,32,4.16,75,14,Hardcover
+330,On Beyond Zebra!,Dr. Seuss,0394800842,64,4.04,2885,171,Hardcover
+331,Ziggy the Zebra,Libby Ellis,1581171048,14,4.07,14,0,Hardcover
+332,The Wedding Clause,Debbie Raleigh,0821778250,256,3.61,101,16,Mass Market Paperback
+333,The Zebra Wall,Kevin Henkes,0060733039,147,3.44,220,25,Paperback
+334,"""A"" Is for Zebra",Mark Shulman,1402734948,32,3.77,52,22,Hardcover
+335,Lots and Lots of Zebra Stripes,Stephen R. Swinburne,1563979802,32,3.77,32,8,Paperback
+336,Why Zebras Don't Get Ulcers,Robert M. Sapolksy,0716727188,367,4.17,57,7,Paperback
+337,El perfume. Historia de un asesino,Patrick Süskind,8432216062,239,4.02,5351,341,Paperback
+338,Jitterbug Perfume,Tom Robbins,0553348981,352,4.24,4373,401,Paperback
+339,"Perfumes, Splashes  Colognes: Discovering and Crafting Your Personal Fragrances",Nancy M. Booth,0882669850,176,3.63,65,2,Paperback
+340,Wonderful World of Collecting Perfume Bottles: Identification & Value Guide,Jane Flanagan,1574325027,176,4.09,10,0,Hardcover
+341,Perfume Dreams: Reflections on the Vietnamese Diaspora,Andrew Lam,1597140201,,4.02,229,32,Paperback
+342,Essence and Alchemy: A Book of Perfume,Mandy Aftel,0865475539,,4.09,42,6,Hardcover
+343,Perfume: The Story of a Murderer,Patrick Süskind,0140120831,263,4.02,248692,8000,Paperback
+344,Scents & Sensibilities: Creating Solid Perfumes for Well-Being,Mandy Aftel,158685738X,96,3.85,62,1,Hardcover
+345,Perfume: The Art And Science of Scent,Cathy Newman,0756781507,,3.90,3,0,
+346,The Perfume Guide,Susan Irvine,1902463153,,4.06,17,2,
+347,Off the Main Sequence: The Other Science Fiction Stories of Robert A. Heinlein,Robert A. Heinlein,1582881847,738,4.03,264,22,Hardcover
+348,The Door Into Summer,Robert A. Heinlein,0345413997,304,4.01,17929,663,Paperback
+349,The Moon is a Harsh Mistress,Robert A. Heinlein,0312863551,382,4.17,3872,438,Paperback
+350,Stranger in a Strange Land,Robert A. Heinlein,0441788386,525,3.92,259709,6500,Paperback
+351,"Starman Jones (Heinlein's Juveniles, #7)",Robert A. Heinlein,1416505504,,3.85,6661,192,
+352,The Notebooks of Lazarus Long,Robert A. Heinlein,074348844X,56,4.07,3288,24,
+353,Time Enough for Love,Robert A. Heinlein,,589,3.97,29092,656,Mass Market Paperback
+354,To Sail Beyond the Sunset,Robert A. Heinlein,0441748600,434,3.87,10380,198,Mass Market Paperback
+355,Job: A Comedy of Justice,Robert A. Heinlein,0345316509,439,3.78,16236,446,Paperback
+356,Time for the Stars,Robert A. Heinlein,0765314932,256,3.97,7003,207,Hardcover
+357,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,0671742515,307,4.05,70736,1442,Mass Market Paperback
+358,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",Douglas Adams,0671625829,,3.98,1659,104,Hardcover
+359,"The Salmon of Doubt (Dirk Gently, #3)",Douglas Adams,0345455290,298,3.93,22420,765,Mass Market Paperback
+360,"Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",Douglas Adams,0345418778,240,3.97,72504,1316,Mass Market Paperback
+361,"Life, the Universe and Everything (Hitchhiker's Guide, #3)",Douglas Adams,0345391829,232,4.20,3031,126,Mass Market Paperback
+362,Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,0345476514,368,4.14,2648,48,Paperback
+363,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,1597770086,,4.05,12,3,Audio CD
+364,"The Long Dark Tea-Time of the Soul (Dirk Gently, #2)",Douglas Adams,0671881450,,4.05,3,0,Audio
+365,"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",Douglas Adams,,306,3.98,107431,2542,Mass Market Paperback
+366,Velvet: A Novel of Suspense,Alec Kalla,0881502642,221,2.57,4,0,Hardcover
+367,Douglas Adams's Starship Titanic,Terry Jones,0345368436,256,3.60,902,88,Paperback
+369,Douglas Adams Starship Titanic: The Official Strategy Guide,Neil Richards,0609801473,,3.70,57,6,
+371,The Salmon of Doubt,Douglas Adams,0345460952,299,3.93,257,17,Paperback
+372,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,159777006X,7,3.93,34,5,Audio CD
+373,"The Salmon of Doubt: Hitchhiking the Galaxy One Last Time (Dirk Gently, #3)",Douglas Adams,1590075617,,3.93,7,1,Audio CD
+374,Salmon Doubts,Adam Sacks,1891867717,128,3.25,152,29,Paperback
+375,Salmon of Doubt,Douglas Adams,1402540434,,3.93,3,0,Audio CD
+376,The Salmon Of Doubt,Douglas Adams,0787104019,,3.93,3,0,
+377,Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams,1417622857,336,3.93,5,0,Library Binding
+378,The Phantom Tollbooth,Norton Juster,0394820371,256,4.20,225427,9176,Paperback
+379,A Guide for Using the Phantom Tollbooth in the Classroom,Kathleen L. Bulloch,1557344310,48,4.25,16,0,Paperback
+380,A Colorful Symphony: Full Score,Robert Xavier Rodríguez,0793565561,68,5.00,1,1,Paperback
+381,La Caseta Magica (the Phantom Tollbooth),Norton Juster,0613858581,,4.20,4,0,Hardcover
+382,The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus,0573650969,72,4.13,100,12,Paperback
+383,The Phantom Tollbooth,Norton Juster,1556908768,,4.20,11,2,
+384,A Literature Guide [To] The Phantom Tollbooth Written By Norton Juster; Illustrated By Jules Feiffer,Barbara Moross,0838808034,,5.00,2,0,
+385,On Bullshit,Harry G. Frankfurt,0691122946,74,3.58,9748,1037,Hardcover
+386,Another Bullshit Night in Suck City,Nick Flynn,0393329402,347,3.79,9509,916,Paperback
+387,100 Bullshit Jobs...And How to Get Them,Stanley Bing,0060734795,320,3.19,155,23,Hardcover
+388,The Business of Bullshit,Graham Edmonds,0452287332,193,3.56,18,3,Paperback
+389,Bullshit Artist: The 9/11 Leadership Myth,Ron Schalow,141962461X,326,4.67,6,0,Paperback
+390,Your Call Is Important to Us: The Truth About Bullshit,Laura Penny,1400081041,272,3.42,271,32,Paperback
+391,Dictionary of Bullshit,Nick  Webb,1402207808,,3.12,30,3,Hardcover
+392,"Bullets, Badges, and Bullshit",Phil T. O'Brien,1424124255,444,5.00,2,0,Paperback
+393,"Hello, Lied the Agent: And Other Bullshit You Hear as a Hollywood TV Writer",Ian Gurvitz,1597775320,342,3.35,52,8,Hardcover
+394,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,0671867423,317,4.14,125,16,Paperback
+395,Lincoln's Gettysburg Address in Translation,Abraham Lincoln,0844400181,36,4.53,5,0,Hardcover
+396,A. Lincoln'S Gettysburg Addres,Barbara Jane Feinburg,0761316108,,4.00,4,0,
+397,The Gettysburg Address,Abraham Lincoln,0395883970,32,4.53,5404,80,Paperback
+398,The Battle of Gettysburg and Lincoln's Gettyburg Address,Carin T. Ford,0766022536,48,4.14,7,2,Hardcover
+399,Underworld,Don DeLillo,0684848155,827,3.92,1536,181,Paperback
+400,Libra,Don DeLillo,0140156046,480,3.99,12327,602,Paperback
+401,Don DeLillo's White Noise (Bloom's Modern Critical Interpretations),Harold Bloom,0791070441,,3.68,31,1,
+402,Mao II,Don DeLillo,0140152741,254,3.68,8745,457,Paperback
+403,Americana,Don DeLillo,0140119485,377,3.42,415,61,Paperback
+404,Running Dog,Don DeLillo,0679722947,256,3.44,1424,81,Paperback
+405,Ratner's Star,Don DeLillo,0679722920,448,3.48,117,18,Paperback
+406,Cosmopolis,Don DeLillo,0743244257,224,3.22,464,41,Paperback
+407,Great Jones Street,Don DeLillo,0140179178,272,3.48,2567,153,Paperback
+408,The Names,Don DeLillo,0679722955,339,3.64,3184,220,Paperback
+409,Against the Day,Thomas Pynchon,159420120X,1085,4.13,5456,603,Hardcover
+410,V.,Thomas Pynchon,0060930217,547,3.96,1465,185,Paperback
+411,The Crying of Lot 49,Thomas Pynchon,0060931671,152,3.69,2190,237,Paperback
+412,Gravity's Rainbow,Thomas Pynchon,0140283382,784,3.99,766,215,Paperback
+413,Mason & Dixon,Thomas Pynchon,0312423209,773,4.08,8399,641,Paperback
+414,Vineland,Thomas Pynchon,0141180633,385,3.69,718,69,Paperback
+415,Gravity's Rainbow,Thomas Pynchon,0143039946,776,3.99,32358,2302,Paperback
+416,Slow Learner: Early Stories,Thomas Pynchon,0316724432,193,3.50,341,36,Paperback
+417,Thomas Pynchon (Bloom's Modern Critical Views),Harold Bloom,0791074455,322,3.65,21,1,Hardcover
+418,Been Down So Long It Looks Like Up To Me,Richard Fariña,0140189300,352,3.79,2562,223,Paperback
+419,Vintage Didion,Joan Didion,1400033934,199,4.09,403,25,Paperback
+420,The Year of Magical Thinking,Joan Didion,140004314X,227,3.90,2760,344,Hardcover
+421,The White Album,Joan Didion,0374522219,222,4.16,13180,829,Paperback
+422,A Book of Common Prayer,Joan Didion,0679754865,272,3.80,3084,270,Paperback
+423,Where I Was From,Joan Didion,0679752862,240,3.86,2972,301,Paperback
+424,Slouching Towards Bethlehem,Joan Didion,,238,4.20,29295,1983,Paperback
+425,Democracy,Joan Didion,0679754857,234,3.83,2165,178,Paperback
+426,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion,0307264874,1122,4.49,1615,111,Hardcover
+427,Miami,Joan Didion,0679781803,240,3.70,1132,100,Paperback
+428,Play It As It Lays,Joan Didion,0374529949,231,3.88,25532,1845,Paperback
+429,Amazons: An Intimate Memoir by the First Woman Ever to Play in the National Hockey League,Cleo Birdwell,0030554268,390,3.70,29,6,Hardcover
+430,Amazons,Cleo Birdwell,0425050610,,3.70,3,0,Paperback
+431,The New York Trilogy,Paul Auster,0143039830,308,3.88,46349,1961,Paperback
+432,"City of Glass (The New York Trilogy, #1)",Paul Auster,0140097317,203,3.79,12950,773,Paperback
+433,The New York Trilogy: City of Glass / Ghosts / The Locked Room,Paul Auster,0140169636,,3.88,335,38,
+434,"Ghosts (The New York Trilogy, #2)",Paul Auster,014009735X,96,3.64,3827,209,Paperback
+435,"The Locked Room (The New York Trilogy, #3)",Paul Auster,0940650762,179,3.89,3129,172,Hardcover
+436,La trilogía de Nueva York,Paul Auster,8433906992,,3.88,1252,96,
+438,"New York Trilogy: New York Underground, Trapped, Love and Sex",Paul Hallasy,0595002234,156,5.00,2,0,Paperback
+439,"New York Dreams (Virex Trilogy, #3)",Eric Brown,0575074949,336,3.74,30,1,Paperback
+440,"New York Nights (Virex Trilogy, #1)",Eric Brown,1857987829,,3.54,53,4,
+442,New York Trilogy   Whodunit?,Anne Holzapfel,3631497989,,5.00,2,0,Paperback
+443,New York Blues (Virex Trilogy),Eric Brown,0575068736,,3.90,4,0,
+444,Pyramids of Montauk: Explorations in Consciousness,Peter Moon,0963188925,256,3.91,77,2,Paperback
+445,"All My Tomorrows (The Orphan Trains Trilogy, #2)",Al Lacy,1590521307,352,3.98,172,14,Paperback
+446,The Brooklyn Follies,Paul Auster,0312426232,306,3.84,18584,1177,Paperback
+447,Moon Palace,Paul Auster,0140115854,320,3.95,16652,531,Paperback
+448,A Tomb for Anatole: Poetry,Stéphane Mallarmé,0811215938,202,4.37,113,15,Paperback
+449,Timbuktu,Paul Auster,0312263996,181,3.69,9846,643,Paperback
+450,Neon Lit: Paul Auster's City of Glass,Paul Karasik,038077108X,129,3.93,124,18,Paperback
+451,True Tales of American Life,Paul Auster,0571210708,480,3.88,415,46,Paperback
+452,The Invention of Solitude: A Memoir,Paul Auster,0140106286,192,3.78,162,12,Paperback
+453,The Music of Chance,Paul Auster,0140154078,217,3.91,368,35,Paperback
+454,Travels in the Scriptorium,Paul Auster,0805081453,145,3.24,6833,578,Hardcover
+455,In the Country of Last Things,Paul Auster,0140097058,188,3.87,441,52,Paperback
+456,Leviathan,Paul Auster,0140178139,275,3.96,12158,464,Paperback
+457,Auggie Wren's Christmas Story,Paul Auster,0805077235,,3.84,1167,122,Hardcover
+458,Oracle Night,Paul Auster,0805073205,,3.78,242,27,Hardcover
+459,The Random House Book of 20th Century French Poetry,Paul Auster,0394717481,690,4.57,165,11,Paperback
+460,Paul Auster's New York - Promo: Mak.of Amer,Paul Auster,080505667X,97,3.90,51,2,Hardcover
+461,The Inner Life of Martin Frost,Paul Auster,9051705441,40,3.33,181,8,Paperback
+462,Disappearances,Paul Auster,0879513411,96,3.43,67,1,Paperback
+463,The Red Notebook: True Stories,Paul Auster,0811214982,104,3.78,2436,124,Paperback
+464,Collected Poems,Paul Auster,1585674044,192,3.60,15,3,Hardcover
+465,Paul Auster and Postmodern Quest: On the Road to Nowhere,Chippy M.L. Den Irvine,0820461679,221,4.00,2,0,Hardcover
+466,Timbuktu / Leviathan / Moon Palace,Paul Auster,2742741461,1075,4.32,22,1,Mass Market Paperback
+467,El libro de las ilusiones,Paul Auster,8433969978,,3.85,131,7,
+468,An Art of Desire: Reading Paul Auster,Bernd Herzogenrath,9042004533,245,4.00,5,0,Paperback
+469,Paul Auster (Bloom's Modern Critical Views),Harold Bloom,0791076628,254,3.92,12,0,Hardcover
+470,"The Art of Hunger: Essays, Prefaces, Interviews, The Red Notebook",Paul Auster,0140267506,368,3.87,427,11,Paperback
+471,World that is the Book: Paul Auster’s Fiction,Aliki Varvogli,0853236879,200,3.60,1,0,Hardcover
+472,Why Write?,Paul Auster,1886224145,58,3.79,134,12,Paperback
+473,Beyond the Red Notebook,Dennis Barone,0812215567,224,4.00,10,0,Paperback
+474,Paul Auster (French Edition),F. Gavillon,2868474926,,4.25,4,0,
+475,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,0143036556,608,3.93,54970,2899,Paperback
+476,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb,0446579785,211,3.39,215,26,Hardcover
+477,Collapse of Complex Societies,Joseph A. Tainter,052138673X,262,4.15,766,94,Paperback
+478,Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,0743203046,544,3.80,4991,542,Paperback
+479,The Collapse of Evolution,Scott M. Huse,0801057744,224,4.06,64,5,Paperback
+480,Collapse of Burning Buildings: A Guide to Fireground Safety,Vincent Dunn,0878149031,150,4.83,6,0,Paperback
+481,The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,034543871X,272,3.89,63,4,Paperback
+482,"Armageddon Averted: The Soviet Collapse, 1970-2000",Stephen Kotkin,0195168941,245,3.72,498,55,Paperback
+484,Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Joy Harjo,0393318281,576,4.40,288,20,Paperback
+485,The Languages of Native North America,Marianne Mithun,052129875X,773,4.53,32,6,Paperback
+487,Searching for Lost City: On the Trail of America's Native Languages,Elizabeth Seay,1592281958,272,3.89,8,1,Hardcover
+488,Indian Sign Language,William Tomkins,048622029X,128,3.96,37,2,Paperback
+489,Along The Clipper Way,Francis Chichester,0345021037,,4.08,29,4,
+490,Along The Clipper Way,Francis Chichester,034503306X,287,4.08,4,0,
+491,"Life And Adventures Of John Nicol, Mariner",John Nicol,0862419921,,3.95,5,1,
+492,The Fantastic Inventions of Nikola Tesla,Nikola Tesla,0932813194,351,4.06,231,21,Paperback
+493,My Inventions,Nikola Tesla,1599869942,88,4.01,3518,293,Paperback
+494,Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc J.  Seifer,0806519606,542,3.80,3341,347,Paperback
+495,"Colorado Springs Notes, 1899-1900",Brotherhood of Life,0913022268,439,3.96,9,1,Hardcover
+496,The Lost Journals of Nikola Tesla: HAARP - Chemtrails and the Secret of Alternative 4,Tim R. Swartz,1892062135,155,3.91,32,4,Paperback
+497,Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,0822549204,144,3.93,109,6,Hardcover
+498,Tesla Papers,Nikola Tesla,0932813860,100,4.13,102,2,Paperback
+499,21st Century Mysteries: Nikola Tesla: Federal Documents and References (CD-ROM),U.S. Government,1422004848,23931,5.00,2,0,CD-ROM
+500,Problem of Increasing Human Energy,Nikola Tesla,1564598446,112,4.22,133,13,Paperback
