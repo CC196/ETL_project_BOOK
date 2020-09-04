@@ -1,0 +1,101 @@
+,id,title,author,isbn,num_pages,average_rating,ratings_count,reviews_count
+0,269831,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,9780552149518,593,3.85,11131,16848
+1,72193,"Harry Potter and the Philosopher's Stone (Harry Potter, #1)",J.K. Rowling,9780747532743,223,4.47,35681,46671
+2,41643790,Harry Potter and the Chamber of Secrets,J.K. Rowling,9780747538486,251,4.43,1356,2255
+3,578587,"Angels and Demons (Robert Langdon, #1)",Dan Brown,9780552150736,620,3.9,13417,20926
+4,444327,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,9780747551003,766,4.5,18397,25926
+5,93124,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,9780747581086,607,4.57,25558,36177
+6,820343,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,9780747591054,607,4.62,17986,26140
+7,464164,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,9780747546290,317,4.57,26576,35009
+8,871224,"Twilight (Twilight, #1)",Stephenie Meyer,9781904233657,434,3.6,4378,7767
+9,864890,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,9780747550990,636,4.56,13072,18408
+10,977,Deception Point,Dan Brown,9780552151764,585,3.72,3436,6287
+11,2326730,"New Moon (Twilight, #2)",Stephenie Meyer,9781904233886,497,3.54,4527,8025
+12,5163858,The Lovely Bones,Alice Sebold,9780330457729,323,3.81,893,1659
+13,44775909,Digital Fortress,Dan Brown,9780552151696,511,3.66,154,416
+14,3437,The Curious Incident of the Dog in the Night-Time,Mark Haddon,9780099450252,272,3.88,17476,23957
+15,2650712,"Eclipse (Twilight, #3)",Stephenie Meyer,9781904233916,559,3.69,3979,7416
+16,44064449,The Girl with the Dragon Tattoo,Stieg Larsson,9781847245458,533,4.14,354,718
+17,437129,The Kite Runner,Khaled Hosseini,9780747566533,324,4.3,8920,13112
+18,44086934,The Time Traveler's Wife,Audrey Niffenegger,9780099464464,540,3.97,183,506
+19,300118,"The World According to Clarkson (World According to Clarkson, #1)",Jeremy Clarkson,9780141017891,327,3.69,4765,7832
+20,9961,Atonement,Ian McEwan,9780099429791,372,3.91,5173,8735
+21,2548559,"The Lost Symbol (Robert Langdon, #3)",Dan Brown,9780593054277,509,3.71,4443,7326
+22,437143,A Short History of Nearly Everything,Bill Bryson,9780552997041,687,4.2,4394,9377
+23,3018469,"Breaking Dawn (Twilight, #4)",Stephenie Meyer,9781905654284,768,3.7,2595,4033
+24,43509,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,9780747546245,636,4.56,19048,24396
+25,820344,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,9780747591061,607,4.62,6882,9321
+26,7862519,"The Girl Who Played With Fire (Millennium, #2)",Stieg Larsson,9781849163422,569,4.24,738,1317
+27,60749,A Child Called 'It': One Child's Courage to Survive,Dave Pelzer,9780752837505,169,4.11,2140,3162
+28,54467120,"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,9780349116754,250,3.79,18,35
+29,916641,You Are What You Eat: The Plan that Will change Your Life,Gillian McKeith,9780718147655,,3.8,147,251
+30,47347,Man and Boy,Tony Parsons,9780006512134,344,3.57,1018,1876
+31,578489,Birdsong,Sebastian Faulks,9780099387916,503,4.09,3042,5561
+32,578703,"Labyrinth (Languedoc Trilogy, #1)",Kate Mosse,9780752877327,694,3.58,1497,3547
+33,922991,The Island,Victoria Hislop,9780755309511,473,4.05,30310,47277
+34,477725,Life of Pi,Yann Martel,9781841953922,319,3.91,6659,10636
+35,276095,Dr Atkins New Diet Revolution,Robert C. Atkins,9780091889487,,3.54,92,155
+36,3950967,The Tales of Beedle the Bard (Hogwarts Library),J.K. Rowling,9780747599876,109,4.06,346343,576690
+37,54566478,Captain Corelli's Mandolin,Louis de Bernières,9780749397548,,3.98,9,34
+38,1761008,Delia's How to Cook: Book One (Delia's How to Cook #1),Delia Smith,9780563384304,240,4.05,438,750
+39,7947324,The Gruffalo,Julia Donaldson,9780330507417,,4.49,8,17
+40,869502,"Eats, Shoots & Leaves",Lynne Truss,9781861976123,204,3.87,1066,2050
+41,70947,"Northern Lights (His Dark Materials, #1)",Philip Pullman,9780590660549,399,3.99,20508,31833
+42,820394,The Interpretation of Murder,Jed Rubenfeld,9780755331420,533,3.53,11152,18695
+43,6979651,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)",Stieg Larsson,9781849162746,746,4.22,5508,8397
+44,578597,"Bridget Jones: The Edge of Reason (Bridget Jones, #2)",Helen Fielding,9780330367356,422,3.58,1452,2464
+45,828387,A Short History of Tractors in Ukrainian,Marina Lewycka,9780141020525,326,3.4,22718,33810
+46,492286,The Alchemist,Paulo Coelho,9780722532935,177,3.87,6043,8813
+47,52511939,Notes from a Small Island,Bill Bryson,9780552996006,,3.91,76,179
+48,11049,The Boy in the Striped Pyjamas,John Boyne,9780099487821,216,4.15,1876,3361
+49,1039158,Stupid White Men,Michael Moore,9780141011905,281,3.32,456,1096
+50,9047584,Jamie's 30-Minute Meals,Jamie Oliver,9780718154776,287,4.03,5688,9074
+51,832624,The Broker,John Grisham,9780099457169,465,3.79,466,1203
+52,578596,Bridget Jones's Diary,Helen Fielding,9780330332774,310,3.78,1790,3119
+53,4948,The Very Hungry Caterpillar,Eric Carle,9780241003008,26,4.3,380853,567564
+54,834713,A Thousand Splendid Suns,Khaled Hosseini,9780747582977,372,4.38,7494,11594
+55,589053,The Sound of Laughter,Peter Kay,9781846051616,368,3.85,297,488
+56,1036065,Jamie's Italy,Jamie Oliver,9780718147709,319,4.01,149,325
+57,50018269,Small Island,Andrea Levy,9780755307500,,3.97,187,473
+58,826300,The Memory Keeper's Daughter,Kim Edwards,9780141030142,401,3.67,3891,5568
+59,998367,Billy Connolly,Pamela Stephenson,9780007110926,384,3.93,3261,4822
+60,1278752,The House at Riverton,Kate Morton,9780330448444,599,3.95,84500,146977
+61,862631,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,9780747561071,766,4.5,10467,13660
+62,962579,Nigella Express: Good Food Fast,Nigella Lawson,9780701181840,390,3.94,163,290
+63,933,Memoirs of a Geisha,Arthur Golden,9780099771517,497,4.12,4477,7604
+64,1761012,Delia's How to Cook: Book Two (Delia's How to Cook #2),Delia Smith,9780563384311,256,4.16,305,508
+65,70948,"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,9780590112895,341,4.13,7660,10997
+66,3397210,Jamie's Ministry of Food,Jamie Oliver,9780718148621,359,4.14,575,868
+67,9379717,Guinness World Records 2009 (Guinness World),Craig Glenday,9781904994367,,4.17,20,64
+68,561436,Why Don't Penguins' Feet Freeze?: And 114 Other Questions,Mick O'Hare,9781861978769,240,3.51,1178,2465
+69,1776251,Jamie at Home: Cook Your Way to the Good Life,Jamie Oliver,9780718152437,407,4.1,12127,26829
+70,4200,White Teeth,Zadie Smith,9780140276336,542,3.77,4616,8603
+71,839146,The Devil Wears Prada,Lauren Weisberger,9780007156108,391,3.75,1334,2655
+72,4876759,At My Mother's Knee...: and other low joints,Paul O'Grady,9780593059258,352,4.14,1922,3141
+73,3452756,No Time for Goodbye,Linwood Barclay,9780752893686,437,4.01,1640,3046
+74,5823944,The Times Su Doku Book 1: 100 challenging puzzles from The Times,Wayne Gould,9780007207329,176,3.75,13,37
+75,15107,"Chocolat (Chocolat, #1)",Joanne Harris,9780552998482,320,3.96,3021,5080
+76,1202922,The Return Of The Naked Chef,Jamie Oliver,9780718144395,387,4.02,133,300
+77,856990,Angela's Ashes: A Memoir of a Childhood,Frank McCourt,9780006498407,426,4.11,1109,2250
+78,156706,Schott's Original Miscellany,Ben Schott,9780747563204,159,4.09,236,542
+79,2719592,Dreams from My Father,Barack Obama,9781847670946,442,3.89,1337,2714
+80,898795,The Dangerous Book for Boys,Conn Iggulden,9780007232741,304,4.03,209,365
+81,816815,To Kill a Mockingbird,Harper Lee,9780099419785,309,4.28,9734,14323
+82,155104,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,9780747581109,607,4.57,4022,5563
+83,60741,The Summons,John Grisham,9780099406136,384,3.7,359,900
+84,7947003,"The Lost Symbol (Robert Langdon, #3)",Dan Brown,9780552149525,670,3.71,2427,3802
+85,578651,The Catcher in the Rye,J.D. Salinger,9780140237504,192,3.81,13788,24422
+86,1010400,I Can Make You Thin,Paul McKenna,9780593050545,144,3.61,1029,2563
+87,531445,Happy Days With The Naked Chef,Jamie Oliver,9780718144845,320,4.07,6412,9166
+88,117664,Brick Lane,Monica Ali,9780552771153,493,3.42,1589,2721
+89,848752,"Anybody Out There? (Walsh Family, #4)",Marian Keyes,9780141019376,592,3.92,422,854
+90,122043,The Undomestic Goddess,Sophie Kinsella,9780552772747,416,3.84,1662,2444
+91,893136,The Book Thief,Markus Zusak,9780552773898,554,4.37,19947,31636
+92,663323,I Know You Got Soul: Machines With That Certain Something,Jeremy Clarkson,9780141022925,233,3.7,1789,2840
+93,578548,Sharon Osbourne Extreme,Sharon Osbourne,9780316731317,372,3.84,70,142
+94,13242239,Guinness World Records 2010,Craig Glenday,9781904994497,287,4.24,30,72
+95,70949,"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,9780439993586,548,4.09,5920,8570
+96,48757025,Can You Keep a Secret?,Sophie Kinsella,9780552771108,,3.84,99,177
+97,42876,Down Under,Bill Bryson,9780552997034,398,4.07,4983,7960
+98,48928582,A Spot of Bother,Mark Haddon,9780099506928,503,3.48,67,165
+99,4391492,Dear Fatty,Dawn French,9781846053443,368,3.79,7923,13136
