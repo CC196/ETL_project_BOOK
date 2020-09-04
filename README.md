@@ -5,9 +5,9 @@ Our original data sources are Goodreads API and The Guardian  We extracted book,
 
   
 ## Transform: what data cleaning or transformation was required.
-From The Guardian a CSV file was downloaded and read into a Python Jupyter Notebook.  Once in the Jupyter Notebook unnecessary columns were dropped and renamed. Duplicate ISBNs were dropped, and the “position” column was set as the index.  The file was now ready to load into PostgreSQL/pgAdmin. 
+From The Guardian a CSV file was downloaded and read into a Python Jupyter Notebook.  The top_100 Jupyter Notebook is related to the top_100_all_time.csv. Once in the Jupyter Notebook unnecessary columns were dropped and renamed. Duplicate ISBNs were dropped, and the “position” column was set as the index.  The file was now ready to load into PostgreSQL/pgAdmin. 
 
-From Goodreads API data was pulled into a Python Jupyter Notebook.  Only the necessary columns were extracted and renamed.  A column for listing the number of pages presented approximately 10 null results which does not significantly impact our transformation and results.  We used the ISBN from the CSV file to find the book information in Goodreads API.  The data was now ready to load into PostgreSQL/pgAdmin.  
+From Goodreads API data was pulled into a Python Jupyter Notebook.  The goodreads Jupyter Notebook is for the API, and the short_api_using_csv.ipynb is using the csv from API Output. Only the necessary columns were extracted and renamed.  A column for listing the number of pages presented approximately 10 null results which does not significantly impact our transformation and results.  We used the ISBN from the CSV file to find the book information in Goodreads API.  The data was now ready to load into PostgreSQL/pgAdmin.  
 
   
 ## Load: the final database, tables/collections, and why this was chosen.
