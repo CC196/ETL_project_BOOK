@@ -1,7 +1,7 @@
 # ETL_project_BOOK
 
 ## Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
-Our original data sources are Goodreads API and The Guardian  We extracted book, author, and average book rating data from the Goodreads API.  We also, extracted a CSV file from The Guardian listing the Top 100 Books of All Time.  Both datasets have common data, such as, ISBN, book titles, and author names.  The ISBN will be useful in transforming and joining the data later.  The Top 100 Books CSV is listed by position and may relate to the average rating by book from Goodreads API.  
+Our original data sources are Goodreads API and The Guardian.  We extracted book, author, and average book rating data from the Goodreads API.  We also, extracted a CSV file from The Guardian listing the Top 100 Books of All Time.  Both datasets have common data, such as, ISBN, book titles, and author names.  The ISBN will be useful in transforming and joining the data later.  The Top 100 Books CSV is listed by position and may relate to the average rating by book from Goodreads API.  
 
   
 ## Transform: what data cleaning or transformation was required.
